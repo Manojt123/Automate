@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79" started-at="2017-05-26T05:11:04Z" finished-at="2017-05-26T05:11:05Z">
+    <groups>
+      <group name="smoke">
+        <method signature="Test1.create_cust()[pri:0, instance:ranjith1.Test1@5b275dab]" name="create_cust" class="ranjith1.Test1"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Default test" duration-ms="79" started-at="2017-05-26T05:11:04Z" finished-at="2017-05-26T05:11:05Z">
+      <class name="ranjith1.Test1">
+        <test-method status="PASS" signature="login()[pri:0, instance:ranjith1.Test1@5b275dab]" name="login" is-config="true" duration-ms="16" started-at="2017-05-26T10:41:04Z" finished-at="2017-05-26T10:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="asdfalk()[pri:0, instance:ranjith1.Test1@5b275dab]" name="asdfalk" duration-ms="15" started-at="2017-05-26T10:41:04Z" finished-at="2017-05-26T10:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asdfalk -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:ranjith1.Test1@5b275dab]" name="logout" is-config="true" duration-ms="16" started-at="2017-05-26T10:41:05Z" finished-at="2017-05-26T10:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="create_cust()[pri:0, instance:ranjith1.Test1@5b275dab]" name="create_cust" duration-ms="0" started-at="2017-05-26T10:41:05Z" finished-at="2017-05-26T10:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_cust -->
+        <test-method status="PASS" signature="login()[pri:0, instance:ranjith1.Test1@5b275dab]" name="login" is-config="true" duration-ms="0" started-at="2017-05-26T10:41:05Z" finished-at="2017-05-26T10:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:ranjith1.Test1@5b275dab]" name="logout" is-config="true" duration-ms="0" started-at="2017-05-26T10:41:05Z" finished-at="2017-05-26T10:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- ranjith1.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
